@@ -6,59 +6,6 @@
 using namespace std;	
 
 
-
-//
-//int* Del_elem(int *&arr, int& size, int &poz) {
-//
-//}
-//
-//
-//int* Add_poz_elem(int*& arr, int& size, int& poz, int &newElement) {
-//	size++;
-//	int* newArr = new int[size];
-//	for (int i = 0; i < size; i++) {
-//		if (i == poz - 1)
-//			newArr[i] = newElement;
-//		else if (i<poz)
-//			newArr[i] = arr[i];
-//		else{
-//			newArr[i] = arr[i-1];
-//		}
-//	}
-//	delete[]arr;
-//	arr = newArr;
-//	return newArr;
-//}
-//
-//
-//int *Add_mass_elem (int *&arr, int& size, int *&blokElem, int &size2) {
-//	
-//	
-//}
-//
-//
-////видалення вказує користувач і ці дані передаються в параметри ф - ції)
-//int* Del_mass_elem(int*& arr, int& size, int& poz1, int& poz2) { 
-//	
-//	
-//}
-//
-//
-//void Min_Max(int* arr, int size,int *max, int *min) {
-//	 
-//}
-//
-//
-//void Serednje(int* arr, int size, float *ser) {
-//	
-//}
-//
-//
-//void zvorotnij(int* arr, int size) {
-//
-//	
-//}
-
 int main() {
 	
 	int value;
